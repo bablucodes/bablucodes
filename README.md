@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/34769971/README.md)
-# Bablu Gupta
+# Bablu Kumar
 
 **Computer Engineering Student | Full-Stack Developer | MERN Stack & DSA**
 
